@@ -84,3 +84,28 @@
               ARE THE CENTER OF ATTENTION OR NOT</p>
           </div>
         </div>
+        
+        </div>
+
+      <div class = "pageSwitch">
+
+        <a>
+          <img src = "./static/icons/LeftArrow.svg" alt = "Right Arrow">
+        </a>
+
+        <div class = "pageNumbers">
+
+          <a>1</a>
+          <a>2</a>
+          <a>3</a>
+
+        </div>
+
+        <a>
+          <img src = "./static/icons/RightArrow.svg" alt = "Left Arrow">
+        </a>
+
+      </div>
+
+      <button class = "nextButton">Next</button>
+</section>
