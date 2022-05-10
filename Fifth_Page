@@ -1,0 +1,71 @@
+<div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>FIRM-MINDED</p>
+            <p>WARM HEARTED</p>
+          </div>
+        </div>
+
+        <div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>FEELING</p>
+            <p>THINKING</p>
+          </div>
+        </div>
+
+        <div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>LITERAL</p>
+            <p>FIGURATIVE</p>
+          </div>
+        </div>
+
+        <div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>PEACEMAKER</p>
+            <p>JUDGE</p>
+          </div>
+        </div>
+
+        <div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>SYSTEMATIC</p>
+            <p>SPONTANEOUS</p>
+          </div>
+        </div>
+
+        <div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>SYSTEMATIC</p>
+            <p>CASUAL</p>
+          </div>
+        </div>
+
+        <div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>CERTAINTY</p>
+            <p>THEORY</p>
+          </div>
+        </div>
+
+        <div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>ANTICIPATION</p>
+            <p>COMPASSION</p>
+          </div>
+        </div>
+
+        <div class = "question">
+          <p>WHICH WORD IN THIS PAIR APPEALS TO YOU MORE</p>
+          <div class = "choices">
+            <p>HARD</p>
+            <p>SOFT</p>
+          </div>
+        </div>
